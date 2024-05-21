@@ -2,4 +2,3 @@
  *  passed as an argument
  */
 SHOW TABLES;
-
